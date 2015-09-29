@@ -1,2 +1,4 @@
-# elixir-todolist
-Simple todo list
+Todolist
+========
+
+** TODO: Add description **
